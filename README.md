@@ -33,7 +33,10 @@ model deployment and app development.
 6. test the app according to specific data
 
 ## Results
-![accuracy 85%]([https://user-images.githubusercontent.com/107659755/174220158-8d9504cc-5e40-41aa-85e2-068b401d2006.png](https://github.com/Garryyash/Heart-Diseases-Prediction-Asessment/blob/main/accuracy%2085%25.jpg))
+https://github.com/Garryyash/Heart-Diseases-Prediction-Asessment/blob/main/accuracy%2085%25.jpg
+## Discussion
+- The best machine learning model achieved 85.7% accuracy during testing.
+
 ## Credits
 to the dataset poster in kaggle
 ## LINK TO 
